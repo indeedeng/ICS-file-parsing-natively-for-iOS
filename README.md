@@ -29,4 +29,4 @@ Who are the project maintainers, and how can they be reached?
 This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md). (Review the Code of Conduct and remove this sentence before publishing your project.)
 
 ## License
-This project uses the [Apache 2.0](LICENSE) license. (Update this and the LICENSE file if your project uses a different license.)
+This project uses the [MIT](LICENSE) license. (Update this and the LICENSE file if your project uses a different license.)
