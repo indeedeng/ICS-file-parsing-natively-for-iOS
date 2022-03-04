@@ -5,6 +5,12 @@ import PackageDescription
 
 let package = Package(
     name: "ICSParser",
+    platforms: [
+        .macOS(.v10_15),
+        .iOS(.v11),
+        .watchOS(.v5),
+        .tvOS(.v11)
+    ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(

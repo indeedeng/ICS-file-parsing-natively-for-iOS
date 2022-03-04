@@ -1,4 +1,4 @@
-# Indeed Open Source Repository Template
+# ICSParser
 
 ![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/default-template.svg)
 
